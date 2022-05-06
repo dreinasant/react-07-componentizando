@@ -15,7 +15,6 @@ align-items: center;
 justify-content: space-evenly;
 position: fixed;
 z-index: 1;
-border-bottom: 1px solid black;
 width: 100%;
 height: 13vh;
 background: rgb(0,139,139);

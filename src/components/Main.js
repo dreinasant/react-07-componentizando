@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import Gogh from "../assets/van-gogh.jpg";
+import Van from "../assets/vincent.jpg";
 import CampoCorvos from "../assets/campo-com-corvos.jpg";
 import NoiteRodano from "../assets/noite-estrelada-rodano.jpg";
 import Oquarto from "../assets/o-quarto.jpg";
@@ -19,7 +19,7 @@ width: 45%;
 const ImageVan = styled.img`
 width: 100%;
 height: 100vh;
-margin-top: 5.6vh;
+margin-top: 12vh;
 `
 const ContainQuadros = styled.div`
 margin-top: 5vw;
@@ -155,7 +155,7 @@ font-size 0.9em;
 function Main() {
   return (
       <div>
-          <ImageVan src={Gogh} alt="van-gogh"/>
+          <ImageVan src={Van} alt="van-gogh"/>
           <Title>Algumas pituras de Vincent Van Gogh</Title>
           <ContainQuadros>
           <BoxPOne>
