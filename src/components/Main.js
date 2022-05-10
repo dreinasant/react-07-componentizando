@@ -13,7 +13,8 @@ justify-content: center;
 font-family: 'Dancing Script', cursive;
 border-bottom: 1px solid black;
 margin: auto;
-width: 45%;
+width: 48%;
+
 `
 
 const ImageVan = styled.img`
