@@ -156,7 +156,7 @@ function Main() {
   return (
       <div>
           <ImageVan src={Van} alt="van-gogh"/>
-          <Title>Algumas pituras de Vincent Van Gogh</Title>
+          <Title>Algumas pinturas de Vincent Van Gogh</Title>
           <ContainQuadros>
           <BoxPOne>
             <ImgRodano src={NoiteRodano} alt="Noite-estrelada-ródano"/>
